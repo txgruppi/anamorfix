@@ -1,8 +1,8 @@
 # anamorfix
 
-![GitHub](https://img.shields.io/github/license/txgruppi/anamorfix.svg?style=flat-square)
-![godoc](https://img.shields.io/badge/godoc-reference-blue.svg?longCache=true&style=flat-square)
-![GitHub release](https://img.shields.io/github/release/txgruppi/anamorfix.svg?style=flat-square)
+![License](https://img.shields.io/github/license/txgruppi/anamorfix.svg?style=flat-square)
+[![godoc](https://img.shields.io/badge/godoc-reference-blue.svg?longCache=true&style=flat-square)](https://godoc.org/github.com/txgruppi/anamorfix)
+[![GitHub release](https://img.shields.io/github/release/txgruppi/anamorfix.svg?style=flat-square)](https://github.com/txgruppi/anamorfix/releases)
 
 _Copy_ of https://github.com/shazbits/anamorfix, but in Go.
 
